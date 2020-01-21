@@ -132,6 +132,11 @@ h1 {
     width: 20%;
 }
 
+a:hover {
+    opacity: 0.1;
+    filter: alpha(opacity=50);
+}
+
 #instagram img {
     width: 100%;
 }
