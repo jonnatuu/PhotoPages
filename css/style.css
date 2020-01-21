@@ -34,7 +34,7 @@ h1 {
 
 /* // Intro */
 
-/* About us */
+/* Aloitus */
 
 #aloitus {
     background-color: rgba(49,49,49, 0.5);
@@ -57,10 +57,11 @@ h1 {
 
 }
 
-/* // About us */
+/* // Aloitus */
 
 
-/* Services */
+/* Keskiosa */
+
 #keskiosa {
     background-color: #262626;
     text-align: center;
@@ -83,9 +84,9 @@ h1 {
     padding: 5px 10px;
 }
 
-/* // Services */
+/* // Keskiosa */
 
-/* keski2 */
+/* Keskiosa 2 */
 
 #keski2 {
     background-image: url("../images/pic2.jpeg");
@@ -108,7 +109,7 @@ h1 {
 }
 
 
-/* // keski2  */
+/* // Keskiosa 2  */
 
 /* Instagram */
 
@@ -138,7 +139,7 @@ h1 {
 
 /* // Instagram */
 
-/* pikkukuva */
+/* Pikkukuvat */
 
 #pikkukuvat {
     background-color: #262626;
@@ -167,7 +168,7 @@ h1 {
     padding: 5px 15px;
 }
 
-/* // pikkukuva */
+/* // Pikkukuvat */
 
 
 /* Contact me */
